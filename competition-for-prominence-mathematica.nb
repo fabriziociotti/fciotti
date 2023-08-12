@@ -1,0 +1,51 @@
+(* Content-type: application/vnd.wolfram.mathematica *)
+
+(*** Wolfram Notebook File ***)
+(* http://www.wolfram.com/nb *)
+
+(* CreatedBy='Mathematica 13.0' *)
+
+(*CacheID: 234*)
+(* Internal cache information:
+NotebookFileLineBreakTest
+NotebookFileLineBreakTest
+NotebookDataPosition[       158,          7]
+NotebookDataLength[      1126,         41]
+NotebookOptionsPosition[       772,         27]
+NotebookOutlinePosition[      1176,         43]
+CellTagsIndexPosition[      1133,         40]
+WindowFrame->Normal*)
+
+(* Beginning of Notebook Content *)
+Notebook[{
+Cell[BoxData[
+ RowBox[{"(*", 
+  RowBox[{"Coming", " ", "Soon"}], "*)"}]], "Input",
+ CellChangeTimes->{{3.9008163756535673`*^9, 
+  3.900816379357659*^9}},ExpressionUUID->"8c5ec2ae-f2db-472d-a240-\
+334b4e889a74"]
+},
+WindowSize->{1428., 735.75},
+WindowMargins->{{0, Automatic}, {Automatic, 0}},
+FrontEndVersion->"13.0 for Microsoft Windows (64-bit) (February 4, 2022)",
+StyleDefinitions->"Default.nb",
+ExpressionUUID->"154b754a-7cce-4c8e-a7ad-37281799e215"
+]
+(* End of Notebook Content *)
+
+(* Internal cache information *)
+(*CellTagsOutline
+CellTagsIndex->{}
+*)
+(*CellTagsIndex
+CellTagsIndex->{}
+*)
+(*NotebookFileOutline
+Notebook[{
+Cell[558, 20, 210, 5, 28, "Input",ExpressionUUID->"8c5ec2ae-f2db-472d-a240-334b4e889a74"]
+}
+]
+*)
+
+(* End of internal cache information *)
+
